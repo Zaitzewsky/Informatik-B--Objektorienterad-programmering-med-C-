@@ -1,0 +1,72 @@
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\bin\Debug\GUI.exe.config
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\bin\Debug\GUI.exe
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\bin\Debug\GUI.pdb
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\bin\Debug\Logic.dll
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\bin\Debug\Logic.pdb
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.Main.resources
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.exe
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.pdb
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\bin\Debug\Data.dll
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\bin\Debug\Data.pdb
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.LäggTillKategori.resources
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.LäggTillPodcast.resources
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.TaBortPodcast.resources
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.ÄndraKategori.resources
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.TaBortKategori.resources
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.ÄndraPodcast.resources
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.ÄndraTillhörandeKategori.resources
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.ÄndraUppdateringsintevall.resources
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.ÄndraURL.resources
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\bin\Debug\GUI.exe.config
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.exe
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.pdb
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\bin\Debug\GUI.exe
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\bin\Debug\GUI.pdb
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\bin\Debug\Logic.dll
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\bin\Debug\Data.dll
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\bin\Debug\Logic.pdb
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\bin\Debug\Data.pdb
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.LäggTillKategori.resources
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.Main.resources
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.LäggTillPodcast.resources
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.TaBortKategori.resources
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.TaBortPodcast.resources
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.ÄndraKategori.resources
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.ÄndraPodcast.resources
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.ÄndraTillhörandeKategori.resources
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.ÄndraUppdateringsintevall.resources
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.ÄndraURL.resources
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Jacinto\Desktop\Projekt\GUI\bin\Debug\GUI.exe.config
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.exe
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.pdb
+C:\Users\Jacinto\Desktop\Projekt\GUI\bin\Debug\GUI.exe
+C:\Users\Jacinto\Desktop\Projekt\GUI\bin\Debug\GUI.pdb
+C:\Users\Jacinto\Desktop\Projekt\GUI\bin\Debug\Logic.dll
+C:\Users\Jacinto\Desktop\Projekt\GUI\bin\Debug\Data.dll
+C:\Users\Jacinto\Desktop\Projekt\GUI\bin\Debug\Logic.pdb
+C:\Users\Jacinto\Desktop\Projekt\GUI\bin\Debug\Data.pdb
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.LäggTillKategori.resources
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.Main.resources
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.LäggTillPodcast.resources
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.TaBortKategori.resources
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.TaBortPodcast.resources
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.ÄndraKategori.resources
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.ÄndraPodcast.resources
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.ÄndraTillhörandeKategori.resources
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.ÄndraUppdateringsintevall.resources
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.ÄndraURL.resources
+C:\Users\Jacinto\Desktop\Projekt\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache

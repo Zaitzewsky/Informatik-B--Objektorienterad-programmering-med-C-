@@ -1,0 +1,27 @@
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\bin\Debug\Logic.dll
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\bin\Debug\Logic.pdb
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\bin\Debug\Data.dll
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\bin\Debug\Data.pdb
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\obj\Debug\Logic.dll
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\obj\Debug\Logic.pdb
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\obj\Debug\Logic.csproj.ResolveComReference.cache
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\bin\Debug\Logic.dll
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\bin\Debug\Logic.pdb
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\bin\Debug\Data.dll
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\bin\Debug\Data.pdb
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\obj\Debug\Interop.WMPLib.dll
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\obj\Debug\Logic.csproj.ResolveComReference.cache
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\obj\Debug\Logic.dll
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Logic\obj\Debug\Logic.pdb
+C:\Users\Jacinto\Desktop\Projekt\Logic\bin\Debug\Logic.dll
+C:\Users\Jacinto\Desktop\Projekt\Logic\bin\Debug\Logic.pdb
+C:\Users\Jacinto\Desktop\Projekt\Logic\bin\Debug\Data.dll
+C:\Users\Jacinto\Desktop\Projekt\Logic\bin\Debug\Data.pdb
+C:\Users\Jacinto\Desktop\Projekt\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Jacinto\Desktop\Projekt\Logic\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jacinto\Desktop\Projekt\Logic\obj\Debug\Logic.csproj.ResolveComReference.cache
+C:\Users\Jacinto\Desktop\Projekt\Logic\obj\Debug\Logic.dll
+C:\Users\Jacinto\Desktop\Projekt\Logic\obj\Debug\Logic.pdb

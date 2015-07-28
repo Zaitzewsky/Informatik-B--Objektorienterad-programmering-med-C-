@@ -1,0 +1,14 @@
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Enhetstester\bin\Debug\Enhetstester.dll
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Enhetstester\bin\Debug\Enhetstester.pdb
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Enhetstester\obj\Debug\Enhetstester.csprojResolveAssemblyReference.cache
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Enhetstester\obj\Debug\Enhetstester.dll
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Enhetstester\obj\Debug\Enhetstester.pdb
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Enhetstester\bin\Debug\Enhetstester.dll
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Enhetstester\bin\Debug\Enhetstester.pdb
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Enhetstester\obj\Debug\Enhetstester.dll
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Enhetstester\obj\Debug\Enhetstester.pdb
+C:\Users\Jacinto\Desktop\Projekt\Enhetstester\bin\Debug\Enhetstester.dll
+C:\Users\Jacinto\Desktop\Projekt\Enhetstester\bin\Debug\Enhetstester.pdb
+C:\Users\Jacinto\Desktop\Projekt\Enhetstester\obj\Debug\Enhetstester.dll
+C:\Users\Jacinto\Desktop\Projekt\Enhetstester\obj\Debug\Enhetstester.pdb
+C:\Users\Jacinto\Desktop\Projekt\Enhetstester\obj\Debug\Enhetstester.csprojResolveAssemblyReference.cache

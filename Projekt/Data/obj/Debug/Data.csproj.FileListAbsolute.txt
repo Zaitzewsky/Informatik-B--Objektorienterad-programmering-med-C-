@@ -1,0 +1,14 @@
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Data\bin\Debug\Data.dll
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Data\bin\Debug\Data.pdb
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Data\obj\Debug\Data.dll
+C:\Users\Jacinto\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Data\obj\Debug\Data.pdb
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Data\bin\Debug\Data.dll
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Data\bin\Debug\Data.pdb
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Data\obj\Debug\Data.dll
+C:\Users\Maria\Documents\Informatik B, Objektorienterad programmering med C#\Projekt\Projekt\Data\obj\Debug\Data.pdb
+C:\Users\Jacinto\Desktop\Projekt\Data\bin\Debug\Data.dll
+C:\Users\Jacinto\Desktop\Projekt\Data\bin\Debug\Data.pdb
+C:\Users\Jacinto\Desktop\Projekt\Data\obj\Debug\Data.dll
+C:\Users\Jacinto\Desktop\Projekt\Data\obj\Debug\Data.pdb
+C:\Users\Jacinto\Desktop\Projekt\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
